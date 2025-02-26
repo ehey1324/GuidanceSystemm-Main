@@ -1,0 +1,1 @@
+echo "Deny from all" > uploads/.htaccess
